@@ -1,4 +1,4 @@
-### Hi there 👋
+### glad to see you👋
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20SunHye&fontSize=90" />
 </div>
