@@ -2,16 +2,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20SunHye&fontSize=90" />
 </div>
-<div align="center">
-Developers looking to the future rather than the present
-  
+<div align="center">  
 glad to see you👋
 
 함께 올라가는 개발자 최선혜입니다."
 
  
-👩🏻‍💻
-꾸준히하면 된다는 마음가짐을 가지고 올라갑니다 .   
+👩🏻‍💻<br>꾸준히하면 된다는 마음가짐을 가지고 올라갑니다 .   
 소통의 중요성을 알고 , 함께 나아가고자 합니다!   
 
 </div> 
