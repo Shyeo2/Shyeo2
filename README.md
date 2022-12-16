@@ -1,6 +1,6 @@
 ### Shyeo2 , Profile
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=%20SunHye&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=%20SunHye&fontSize=70&desc=BackEnd" />
 </div>
 <div align="center">  
 glad to see you👋
