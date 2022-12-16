@@ -1,11 +1,11 @@
-### glad to see you👋
+### Shyeo2 , Profile
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20SunHye&fontSize=90" />
 </div>
 <div align="center">
 Developers looking to the future rather than the present
   
-Hi there 👋
+glad to see you👋
 
 함께 올라가는 개발자 최선혜입니다."
 
