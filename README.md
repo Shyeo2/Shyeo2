@@ -39,8 +39,8 @@ glad to see you👋
 
 <div align="center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shyoe2&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyoe2&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shyeo2&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyeo2&layout=compact&theme=dracula)](https://github.com/metleeha)
 
   </div>
 <!--
